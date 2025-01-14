@@ -30,11 +30,11 @@ Il configure également :
 ### Exemple
 
 Pour créer un utilisateur avec :
-- Nom : `johndoe`
-- Commentaire : `Développeur`
+- Nom : `toto`
+- Commentaire : `test de creation`
 - Shell : `/bin/bash`
-- Durée de validité : `30` jours
-- Quota disque : `10000` blocs
+- Durée de validité : `10` jours
+- Quota disque : `2G` blocs
 
 Exécutez :
 
